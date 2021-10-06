@@ -1,0 +1,10 @@
+//Language:
+	php
+	html
+	css
+	less javascript
+	
+index.php //main fail  only input & table work
+student.sql // database
+connection.php // connect with database
+insert.php // all php work relaited to inserting data into database is hear	
